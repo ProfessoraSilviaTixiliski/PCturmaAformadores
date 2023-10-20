@@ -3,3 +3,9 @@ h1{
     text-align: center;
     font-size: 60px;
 }
+p{
+    color:hsl(195, 72%, 40%);
+    text-align: justify;
+    font-size: 50;
+    
+}
