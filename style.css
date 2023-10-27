@@ -3,7 +3,13 @@
     text-align: center;
     font-size: 80px;
 }
-.subtitulo
+
+.subtitulo{
+    text-align: left;
+    color:rgb(16, 99, 16);
+    font-size: 25px;
+}
+
 p{
     color:hwb(253 4% 39%);
     text-align:justify;
