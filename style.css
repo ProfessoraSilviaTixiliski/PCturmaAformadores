@@ -1,3 +1,17 @@
+body{
+    background-color: #00ffff;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 30px;
+    line-height: 1.5;
+    margin: 0px;
+}
+
+
+
+
+
+
+
 #tituloprincipal{
     color: rgb(14, 206, 14);
     text-align: center;
